@@ -1,0 +1,32 @@
+MozGuna:
+  username: MozGuna
+  name: MozGuna
+  location: India
+  url_full: https://github.com/mozguna/
+  url: https://github.com/mozguna/
+  bio: Inspiring students & women by teaching them to contribute to Open Source.
+  assets: assets/images/avatar.jpg
+Nikesh:
+  username: nikesh
+  name: Nikesh Balami
+  location: Nepal
+ # url_full: https://github.com/mozguna/
+ # url: https://github.com/mozguna/
+ # bio: Inspiring students & women by teaching them to contribute to Open Source.
+ # assets: assets/images/avatar.jpg
+Shubhendra:
+  username: withshubh
+  name: Shubhendra Singh Chauhan
+  location: India
+  url_full: https://withshubh.github.io/
+  url: https://github.com/withshubh/
+  bio: CSE Undergrad
+  assets: assets/images/avatar.jpg
+Abhishek:
+  username: abhishek
+  name: Abhishek Singh Chauhan
+  location: India
+ # url_full: https://github.com/mozguna/
+ # url: https://github.com/mozguna/
+ # bio: Inspiring students & women by teaching them to contribute to Open Source.
+ # assets: assets/images/avatar.jpg
